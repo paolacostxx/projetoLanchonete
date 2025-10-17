@@ -43,3 +43,5 @@ Simular execução das sprints com telas desenhadas no papel
 Fazer o fechamento das sprints e apresentar ao cliente (professor)
 
 Entrega do projeto
+
+blablala
